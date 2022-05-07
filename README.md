@@ -3,11 +3,9 @@ The project is a coherant implementation of machine learning using a simple bank
 
 Steps present in code:
 
-Dataset,
-banknotes.csv,
+Dataset using banknotes.csv,
 Model,
 Support Vector Machine,
 Testing,
-Prediction,
-Authenticity of a banknote.
+Prediction for Authenticity of a banknote.
 
